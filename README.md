@@ -1,16 +1,13 @@
-gimp-average-layers
-===================
+## gimp-average-layers
 
-This GIMP plugin averages all layers to create a blended image.
+This GIMP plugin averages all layers to create a blended image. Useful for noise removal etc.
 
-Usage
------
+### Usage
 
-1. Move this plugin into the ~/.gimp/plug-ins/ directory.
-2. chmod +x
-3. Open File -> Open as Layers... to open the images you wish to blend.
-4. Select Image -> Average Layers
+1. Move this plugin into the `~/.gimp-2.6/plug-ins/` directory.
+2. `chmod +x ~/.gimp-2.6/plug-ins/layer-average.py`
+3. Select `File -> Open as Layers...` to open the images you wish to blend.
+4. Select `Image -> Average Layers`
 
-Author & Licensing
-------------------
+### Author & Licensing
 windytan 2012, public domain

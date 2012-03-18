@@ -5,7 +5,7 @@ from gimpfu import *
 def layer_average(img, drw):
   n = len(img.layers)
   for layer in img.layers:
-    layer.opacity = 1.0/n * 100
+    layer.opacity = 100.0/n
     n = n-1
   img.flatten()
 
