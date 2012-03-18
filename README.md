@@ -11,6 +11,6 @@ Usage
 3. Open File -> Open as Layers... to open the images you wish to blend.
 4. Select Image -> Average Layers
 
-Author
-------
-windytan 2012
+Author & Licensing
+------------------
+windytan 2012, public domain
