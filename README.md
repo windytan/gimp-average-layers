@@ -2,6 +2,8 @@
 
 This GIMP plugin averages all layers to create a blended image. Useful for noise removal etc.
 
+![Screenshot]http://www.cs.helsinki.fi/u/okraisan/avg.png)
+
 ### Usage
 
 1. Move this plugin into the `~/.gimp-2.6/plug-ins/` directory.
