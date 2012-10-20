@@ -1,6 +1,6 @@
 ## gimp-average-layers
 
-This GIMP plugin averages all layers to create a blended image. Useful for noise removal etc.
+This GIMP plugin averages all layers to create a blended image. Useful for noise removal, strobe images, etc.
 
 ![Screenshot](http://www.cs.helsinki.fi/u/okraisan/dance.png)
 
