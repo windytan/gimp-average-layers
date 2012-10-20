@@ -2,7 +2,7 @@
 
 This GIMP plugin averages all layers to create a blended image. Useful for noise removal etc.
 
-![Screenshot](http://www.cs.helsinki.fi/u/okraisan/avg.png)
+![Screenshot](http://www.cs.helsinki.fi/u/okraisan/dance.png)
 
 ### Usage
 
