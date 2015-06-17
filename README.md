@@ -4,13 +4,24 @@ This GIMP plugin averages all layers to create a blended image. Useful for noise
 
 ![Screenshot](http://www.cs.helsinki.fi/u/okraisan/dance.png)
 
-### Usage
+### Installing
+
+#### Linux
 
 1. Move this plugin into the `~/.gimp-2.6/plug-ins/` directory.
 2. `chmod +x ~/.gimp-2.6/plug-ins/layer-average.py`
 3. (Re)start GIMP.
-4. Select `File -> Open as Layers...` to open the images you wish to blend.
-5. Select `Image -> Average Layers`
+
+#### Mac OS X
+
+1. Move this plugin into the `~/Library/Application\ Support/GIMP/2.8/plug-ins/` directory.
+2. `chmod +x ~/Library/Appliceation\ Support/GIMP/2.8/plug-ins/layer-average.py`
+3. (Re)start GIMP.
+
+### Usage
+
+1. Select `File -> Open as Layers...` to open the images you wish to blend.
+2. Select `Image -> Average Layers`
 
 ### Author & Licensing
-windytan 2012, public domain
+Oona Räisänen 2012-2015, public domain
