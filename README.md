@@ -15,7 +15,7 @@ This GIMP plugin averages all layers to create a blended image. Useful for noise
 #### Mac OS X
 
 1. Move this plugin into the `~/Library/Application\ Support/GIMP/2.8/plug-ins/` directory.
-2. `chmod +x ~/Library/Appliceation\ Support/GIMP/2.8/plug-ins/layer-average.py`
+2. `chmod +x ~/Library/Application\ Support/GIMP/2.8/plug-ins/layer-average.py`
 3. (Re)start GIMP.
 
 ### Usage
